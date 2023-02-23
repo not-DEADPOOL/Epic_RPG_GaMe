@@ -1,3 +1,0 @@
-C:\Users\apilati\source\repos\Lib_Gioco_RPG\Lib_Gioco_RPG\obj\Debug\netcoreapp3.0\Lib_Gioco_RPG.csprojAssemblyReference.cache
-C:\Users\apilati\source\repos\Lib_Gioco_RPG\Lib_Gioco_RPG\obj\Debug\netcoreapp3.0\Lib_Gioco_RPG.AssemblyInfoInputs.cache
-C:\Users\apilati\source\repos\Lib_Gioco_RPG\Lib_Gioco_RPG\obj\Debug\netcoreapp3.0\Lib_Gioco_RPG.AssemblyInfo.cs
