@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib_Gioco_RPG", "Lib_Gioco_RPG\Lib_Gioco_RPG.csproj", "{B23F2F6B-AB54-488A-8C0F-AEC5CFC0F8B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consumer", "Consumer\Consumer.csproj", "{0CBDB872-9C1D-48E8-A84D-057FFC2CD367}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B23F2F6B-AB54-488A-8C0F-AEC5CFC0F8B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B23F2F6B-AB54-488A-8C0F-AEC5CFC0F8B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B23F2F6B-AB54-488A-8C0F-AEC5CFC0F8B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B23F2F6B-AB54-488A-8C0F-AEC5CFC0F8B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CBDB872-9C1D-48E8-A84D-057FFC2CD367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CBDB872-9C1D-48E8-A84D-057FFC2CD367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CBDB872-9C1D-48E8-A84D-057FFC2CD367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CBDB872-9C1D-48E8-A84D-057FFC2CD367}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {865C7E9C-C861-4DE9-B8A8-7C63717DF996}
+	EndGlobalSection
+EndGlobal
