@@ -36,7 +36,7 @@ namespace Lib_Gioco_RPG
                     if (Party[i] is Healer)
                         vitatotale += (Party[i] as Healer).Heal;
                 }
-                Round3(Party, b);
+                Round3(Party, b,vitatotale);
             }
             else if (vitatotale <= 0)
             {
@@ -46,7 +46,7 @@ namespace Lib_Gioco_RPG
             else
             {
                 Console.WriteLine("THe Show must go on11!!!!1!");
-                Round3(Party, b);
+                Round3(Party, b,vitatotale);
             }
         }
         static bool Round3(Character[] Party,Boss b,int vt)
