@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZKf/SdbrWbrg4FaaMnI5X6/4YfIsvhdPtEtmqKjEH1u2/b0pQAsMcSZxbI5Vs/0VULbFH24JnrZRHk0Rn5qUzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Utente\\Source\\Repos\\Epic_RPG_GaMe\\RPG GAME\\Consumer\\Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Utente\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Utente\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Utente\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Utente\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

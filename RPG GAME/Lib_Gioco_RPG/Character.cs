@@ -3,7 +3,7 @@ using System;
 
 namespace Lib_Gioco_RPG
 {
-    public class Character
+    public abstract class Character
     {
         public string Nome;
         int _vita;
@@ -17,9 +17,6 @@ namespace Lib_Gioco_RPG
             Vita = rnd.Next(1, 101);
             Console.WriteLine("he, he, he ,wha");
         }
-        public virtual string Stato()
-        {
-            return Nome + " ha " + $"{Vita}" + " HP";
-        }
+        public abstract string Stato();
     }
 }
