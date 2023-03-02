@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -49,10 +49,10 @@ namespace Lib_Gioco_RPG
                 Round3(Party, b,vitatotale);
             }
         }
-        static bool Round3(Character[] Party,Boss b,int vt)
+        static void Round3(Character[] Party, Boss b, int vt)
         {
-            if (vt == 0) return false;
-            else if (b.Vita == 0) return true;
+            if (vt == 0) { Console.WriteLine("Vittoria"); return; }
+            else if (b.Vita == 0) { Console.WriteLine("Sconfitta"); return; }
             else Round1(Party, b);
         }
     }
