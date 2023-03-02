@@ -1,3 +1,13 @@
 C:\Users\apilati\source\repos\Lib_Gioco_RPG\Lib_Gioco_RPG\obj\Debug\netcoreapp3.0\Lib_Gioco_RPG.csprojAssemblyReference.cache
 C:\Users\apilati\source\repos\Lib_Gioco_RPG\Lib_Gioco_RPG\obj\Debug\netcoreapp3.0\Lib_Gioco_RPG.AssemblyInfoInputs.cache
 C:\Users\apilati\source\repos\Lib_Gioco_RPG\Lib_Gioco_RPG\obj\Debug\netcoreapp3.0\Lib_Gioco_RPG.AssemblyInfo.cs
+C:\Users\Utente\source\repos\not-DEADPOOL\Epic_RPG_GaMe\RPG GAME\Lib_Gioco_RPG\bin\Debug\netcoreapp3.0\Lib_Gioco_RPG.deps.json
+C:\Users\Utente\source\repos\not-DEADPOOL\Epic_RPG_GaMe\RPG GAME\Lib_Gioco_RPG\bin\Debug\netcoreapp3.0\Lib_Gioco_RPG.dll
+C:\Users\Utente\source\repos\not-DEADPOOL\Epic_RPG_GaMe\RPG GAME\Lib_Gioco_RPG\bin\Debug\netcoreapp3.0\Lib_Gioco_RPG.pdb
+C:\Users\Utente\source\repos\not-DEADPOOL\Epic_RPG_GaMe\RPG GAME\Lib_Gioco_RPG\obj\Debug\netcoreapp3.0\Lib_Gioco_RPG.csproj.AssemblyReference.cache
+C:\Users\Utente\source\repos\not-DEADPOOL\Epic_RPG_GaMe\RPG GAME\Lib_Gioco_RPG\obj\Debug\netcoreapp3.0\Lib_Gioco_RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\source\repos\not-DEADPOOL\Epic_RPG_GaMe\RPG GAME\Lib_Gioco_RPG\obj\Debug\netcoreapp3.0\Lib_Gioco_RPG.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\not-DEADPOOL\Epic_RPG_GaMe\RPG GAME\Lib_Gioco_RPG\obj\Debug\netcoreapp3.0\Lib_Gioco_RPG.AssemblyInfo.cs
+C:\Users\Utente\source\repos\not-DEADPOOL\Epic_RPG_GaMe\RPG GAME\Lib_Gioco_RPG\obj\Debug\netcoreapp3.0\Lib_Gioco_RPG.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\not-DEADPOOL\Epic_RPG_GaMe\RPG GAME\Lib_Gioco_RPG\obj\Debug\netcoreapp3.0\Lib_Gioco_RPG.dll
+C:\Users\Utente\source\repos\not-DEADPOOL\Epic_RPG_GaMe\RPG GAME\Lib_Gioco_RPG\obj\Debug\netcoreapp3.0\Lib_Gioco_RPG.pdb

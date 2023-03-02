@@ -1,0 +1,11 @@
+C:\Users\Utente\Source\Repos\not-DEADPOOL\Epic_RPG_GaMe\visuale_rpg\visuale_rpg\bin\Debug\visuale_rpg.exe.config
+C:\Users\Utente\Source\Repos\not-DEADPOOL\Epic_RPG_GaMe\visuale_rpg\visuale_rpg\bin\Debug\visuale_rpg.exe
+C:\Users\Utente\Source\Repos\not-DEADPOOL\Epic_RPG_GaMe\visuale_rpg\visuale_rpg\bin\Debug\visuale_rpg.pdb
+C:\Users\Utente\Source\Repos\not-DEADPOOL\Epic_RPG_GaMe\visuale_rpg\visuale_rpg\obj\Debug\visuale_rpg.csproj.AssemblyReference.cache
+C:\Users\Utente\Source\Repos\not-DEADPOOL\Epic_RPG_GaMe\visuale_rpg\visuale_rpg\obj\Debug\visuale_rpg.csproj.SuggestedBindingRedirects.cache
+C:\Users\Utente\Source\Repos\not-DEADPOOL\Epic_RPG_GaMe\visuale_rpg\visuale_rpg\obj\Debug\visuale_rpg.Form1.resources
+C:\Users\Utente\Source\Repos\not-DEADPOOL\Epic_RPG_GaMe\visuale_rpg\visuale_rpg\obj\Debug\visuale_rpg.Properties.Resources.resources
+C:\Users\Utente\Source\Repos\not-DEADPOOL\Epic_RPG_GaMe\visuale_rpg\visuale_rpg\obj\Debug\visuale_rpg.csproj.GenerateResource.cache
+C:\Users\Utente\Source\Repos\not-DEADPOOL\Epic_RPG_GaMe\visuale_rpg\visuale_rpg\obj\Debug\visuale_rpg.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Source\Repos\not-DEADPOOL\Epic_RPG_GaMe\visuale_rpg\visuale_rpg\obj\Debug\visuale_rpg.exe
+C:\Users\Utente\Source\Repos\not-DEADPOOL\Epic_RPG_GaMe\visuale_rpg\visuale_rpg\obj\Debug\visuale_rpg.pdb

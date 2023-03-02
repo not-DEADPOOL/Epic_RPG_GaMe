@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9D0kdHwhHNCKFy1LTzJ1lkoSZpKoxzMB9uKirK3+2QQWjO2deU4oznp7QJsE5Jn+4WzYrK4bjcfFCap44EXKyg==",
+  "dgSpecHash": "zov3HnouFGnuFry5+t1I/dt+YWIxg75kfdJfOcbQECdsZP46vblfZPy5hhIJxUChkF3vV3jIKDfHc44+mqZhlA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Utente\\Source\\Repos\\Epic_RPG_GaMe\\RPG GAME\\Lib_Gioco_RPG\\Lib_Gioco_RPG.csproj",
+  "projectFilePath": "C:\\Users\\Utente\\source\\repos\\not-DEADPOOL\\Epic_RPG_GaMe\\RPG GAME\\Lib_Gioco_RPG\\Lib_Gioco_RPG.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Utente\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
     "C:\\Users\\Utente\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
