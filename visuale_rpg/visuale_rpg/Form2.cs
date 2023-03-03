@@ -15,6 +15,7 @@ namespace visuale_rpg
         public Form2()
         {
             InitializeComponent();
+            Form1.Close();
         }
     }
 }
