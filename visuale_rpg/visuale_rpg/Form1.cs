@@ -57,6 +57,7 @@ namespace visuale_rpg
 
         private void btnExit_Click(object sender, EventArgs e)
         {
+            //Application.Run(new Form2());
             this.Close();
         }
     }
